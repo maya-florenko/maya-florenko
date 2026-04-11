@@ -1,14 +1,14 @@
-## Hi there!
+# art4k
 
-### Little about me:
+### about me:
 
 Full-stack developer (frontend & backend).
 
-Primary languages: Go and TypeScript. I'm a little dumb for Rust >_<
+Primary languages: Go, Rust, TypeScript.
 
-### Fun facts:
+### fun facts:
 
-I reinstalled my OS ~500+ times
+I reinstalled my OS ~500+ times.
 
 Minecraft is my life!
 
