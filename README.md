@@ -2,13 +2,15 @@
 
 ### about me:
 
-Full-stack developer (frontend & backend).
+Full-stack developer (backend & frontend)
 
-Primary languages: Go, Rust, TypeScript.
+Primary languages: Go, TypeScript
+
+GameDev enjoyer!
 
 ### fun facts:
 
-I reinstalled my OS ~500+ times.
+I reinstalled my OS ~500+ times
 
 Minecraft is my life!
 
